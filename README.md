@@ -10,3 +10,4 @@ Clone this repository or download the index.html, styles.css,yes_style.css,yes_p
 Open the index.html file in your web browser. A Note on Code Usage While I am happy to share this project, I encourage you to use it as inspiration. If you use this code as a base for your own project, please give credit where it's due. A simple shoutout or link back to this repository is appreciated!
 
 Code Overview Files: index.html: The main HTML file that structures the webpage. styles.css: The CSS file that styles the webpage. script.js: The JavaScript file that handles the button interactions. yes_page.html: The yes page that sturctures the webpage. yes_style.css: The css file that styles the yes webpage. Key Functions: handleNoClick(): Changes the "No" button text and increases the size of the "Yes" button. handleYesClick(): Redirects the user to yes_page.html.
+[Hi.po.html](https://github.com/user-attachments/files/25176417/Hi.po.html)
